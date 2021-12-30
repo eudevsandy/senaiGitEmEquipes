@@ -1,0 +1,13 @@
+Sobre Boas Práticas para utilização do GIT: 
+
+
+
+Definição: "Boas Práticas" é como costuma-se chamar os 'acordos' existentes na criação de códigos. Há boas práticas específicas e aplicadas a determinandas linguagens e também algumas aplicadas apenas a certo time de desenvolvimento. Seu objetivo é facilitar a leitura do código e o trabalho em equipe. 
+
+
+
+Abaixo seguem exemplos de boas práticas para utilização do Github: 
+
+
+
+1) Na linguagem do GitHub, projetos são conhecidos como repositórios, e estes podem ser públicos ou privados. Normalmente, quando os dados a serem utilizados não podem ser divulgados, opta-se pelo repositório privado.
