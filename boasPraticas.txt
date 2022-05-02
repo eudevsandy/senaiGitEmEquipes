@@ -11,3 +11,5 @@ Abaixo seguem exemplos de boas práticas para utilização do Github:
 
 
 1) Na linguagem do GitHub, projetos são conhecidos como repositórios, e estes podem ser públicos ou privados. Normalmente, quando os dados a serem utilizados não podem ser divulgados, opta-se pelo repositório privado.
+
+2) Backup de versões; Todos os backups das versões do projeto devem ser mantidos no repositório, preferencialmente associados a uma identificação, uma tag. No processo de desenvolvimento ágil é produzida uma nova versão entregável do produto a cada Sprint. Portanto manter o controle das versões que foram lançadas a cada Sprint é uma prática que permite maior agilidade, uma vez que facilita a recuperação de cada versão a qualquer momento.
